@@ -39,9 +39,6 @@
   )
 
   (symbol_instances
-    (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/e23d4419-6938-4f5c-98c4-b4c7e2af709e"
-      (reference "#PWR01") (unit 1) (value "+5V") (footprint "")
-    )
     (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/9d468dc3-0076-40bb-8499-478e905a8398"
       (reference "#PWR02") (unit 1) (value "GND") (footprint "")
     )
@@ -194,6 +191,9 @@
     )
     (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/a2c7babe-953d-4bfe-9106-059c2accdb80"
       (reference "U4") (unit 1) (value "LM1117-1.8") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
+    )
+    (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/a873f25b-b5cc-4730-b12a-d006f10640a0"
+      (reference "U?") (unit 1) (value "HPA00714DBVR") (footprint "erkan-hw-lib:HPA00714DBVR")
     )
     (path "/43c0cb35-7964-4b4c-bb68-16608f9b71c5/cb7832ba-451d-4889-a2c4-bebc92fa0f96"
       (reference "Y1") (unit 1) (value "24MHz") (footprint "Crystal:Crystal_SMD_HC49-SD")
