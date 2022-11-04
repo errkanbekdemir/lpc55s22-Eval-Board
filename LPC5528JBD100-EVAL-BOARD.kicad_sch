@@ -123,6 +123,18 @@
     (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/f5e50140-c396-4476-98d3-b67df50590eb"
       (reference "#PWR0121") (unit 1) (value "+1V8") (footprint "")
     )
+    (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/1f3226fd-f247-4a96-a373-14e90ede6b20"
+      (reference "#PWR?") (unit 1) (value "+1V8") (footprint "")
+    )
+    (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/5a123660-e100-4678-bd6f-eff0fc12311d"
+      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/ba6fa02a-f910-4ce8-93ba-f507a7433dac"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/d5dc6215-098b-4517-af1d-1e1250696b44"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
     (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/9b978ca3-43f1-4097-ab17-17544685158e"
       (reference "C1") (unit 1) (value "100uF") (footprint "Capacitor_SMD:CP_Elec_8x10.5")
     )
@@ -183,6 +195,18 @@
     (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/9fc2f51b-d443-4648-9fe2-7c1de1733dfa"
       (reference "D1") (unit 1) (value "PMEG3050BEP") (footprint "erkan-hw-lib:D_SOD-128")
     )
+    (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/5897dfcc-1151-43cf-bf24-443a731f2237"
+      (reference "D?") (unit 1) (value "LED") (footprint "")
+    )
+    (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/97cacc30-3069-4fd5-a52a-19035d3c481a"
+      (reference "D?") (unit 1) (value "LED") (footprint "")
+    )
+    (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/a809ef78-2331-4c99-88c7-385c01ff0c51"
+      (reference "D?") (unit 1) (value "LED") (footprint "")
+    )
+    (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/f666310f-6ac3-4240-9967-d3b1dc11af4b"
+      (reference "D?") (unit 1) (value "LED") (footprint "")
+    )
     (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/859c7faa-4c94-4d7f-a4ee-1b0461477c40"
       (reference "J1") (unit 1) (value "Jack-DC") (footprint "erkan-hw-lib:DC-JACK-5.5x2.1")
     )
@@ -194,6 +218,18 @@
     )
     (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/d92719c0-7c6f-439a-85b3-d7695cbe7956"
       (reference "L1") (unit 1) (value "SRR1280A") (footprint "Inductor_SMD:L_Bourns_SRR1260")
+    )
+    (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/0a72a516-9892-4eee-a619-d16282d37595"
+      (reference "R?") (unit 1) (value "1.2k") (footprint "")
+    )
+    (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/15034525-0f3b-42c1-8ead-b5c16feee701"
+      (reference "R?") (unit 1) (value "1.2k") (footprint "")
+    )
+    (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/3125d492-feb0-4c85-8303-706881130e4e"
+      (reference "R?") (unit 1) (value "1.2k") (footprint "")
+    )
+    (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/7419f4f6-7d90-45d9-ae44-27e5ee3d5d6a"
+      (reference "R?") (unit 1) (value "1.2k") (footprint "")
     )
     (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/b95d72ea-4637-48c5-ad60-b7aaa9661e13"
       (reference "TP1") (unit 1) (value "TP_3V3") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
