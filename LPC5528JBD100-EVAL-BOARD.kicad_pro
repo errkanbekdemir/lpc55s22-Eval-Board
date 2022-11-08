@@ -136,7 +136,7 @@
         },
         {
           "diameter": 0.6,
-          "drill": 0.2
+          "drill": 0.3
         },
         {
           "diameter": 0.9,
@@ -451,6 +451,10 @@
     [
       "43c0cb35-7964-4b4c-bb68-16608f9b71c5",
       "MCU"
+    ],
+    [
+      "dfffd2cd-4619-4efc-9ed5-333a57e7c91c",
+      "MCU_1"
     ]
   ],
   "text_variables": {}
