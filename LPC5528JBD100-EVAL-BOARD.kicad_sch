@@ -103,8 +103,8 @@
     (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/a06b3eec-a72a-43d1-89a7-f30febce53db"
       (reference "#PWR0110") (unit 1) (value "GND") (footprint "")
     )
-    (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/f84c75e5-1944-44f2-8f03-1b49edda1b45"
-      (reference "#PWR0111") (unit 1) (value "VBUS") (footprint "")
+    (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/9131d0a9-a6eb-4080-98b3-e8de6ef33b2f"
+      (reference "#PWR0111") (unit 1) (value "+5V") (footprint "")
     )
     (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/feab130c-0067-4156-81fc-6a6946db51ce"
       (reference "#PWR0112") (unit 1) (value "+5V") (footprint "")
@@ -198,6 +198,9 @@
     )
     (path "/dfffd2cd-4619-4efc-9ed5-333a57e7c91c/4d6b2436-4266-4e82-a4b5-a8fec400c9b4"
       (reference "#PWR0142") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/dfffd2cd-4619-4efc-9ed5-333a57e7c91c/c9708ca3-1af9-40e3-b75c-0708a10a2090"
+      (reference "#PWR0143") (unit 1) (value "GND") (footprint "")
     )
     (path "/dfffd2cd-4619-4efc-9ed5-333a57e7c91c/37590092-e58c-4a06-9f06-883874e2730a"
       (reference "#PWR0144") (unit 1) (value "GND") (footprint "")
@@ -335,10 +338,13 @@
       (reference "J6") (unit 1) (value "JLink-2") (footprint "Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical")
     )
     (path "/dfffd2cd-4619-4efc-9ed5-333a57e7c91c/ad5acd6c-8b7d-400f-a5ce-0c6d633d4b9e"
-      (reference "J7") (unit 1) (value "Conn_01x40") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x40_P2.54mm_Vertical")
+      (reference "J7") (unit 1) (value "Conn_02x20") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical")
     )
     (path "/dfffd2cd-4619-4efc-9ed5-333a57e7c91c/1895a7fb-266a-42fe-affa-08d006718b2c"
       (reference "J8") (unit 1) (value "Conn_02x20") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical")
+    )
+    (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/12983415-7837-4d51-8b02-2296b8606037"
+      (reference "J9") (unit 1) (value "VBus-Select") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
     (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/d92719c0-7c6f-439a-85b3-d7695cbe7956"
       (reference "L1") (unit 1) (value "SRR1280A") (footprint "Inductor_SMD:L_Bourns_SRR1260")
@@ -359,7 +365,7 @@
       (reference "R4") (unit 1) (value "68 Ohm") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/895dc068-e6de-4e38-9666-5af4502f42ea"
-      (reference "R5") (unit 1) (value "20k") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R5") (unit 1) (value "47k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/d86e8657-2066-4d2d-9f9e-d561459c07ae"
       (reference "R6") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0603_1608Metric")
@@ -397,8 +403,17 @@
     (path "/dfffd2cd-4619-4efc-9ed5-333a57e7c91c/55c71429-558a-41ce-a0e3-524a8684cfd7"
       (reference "R17") (unit 1) (value "100") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
+    (path "/dfffd2cd-4619-4efc-9ed5-333a57e7c91c/d797e6d4-c3e7-4c65-aa1a-1c6c3830928c"
+      (reference "R18") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/dfffd2cd-4619-4efc-9ed5-333a57e7c91c/6903ec41-ba2d-409f-8db5-cf2ada01c87d"
+      (reference "R19") (unit 1) (value "100") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
     (path "/dfffd2cd-4619-4efc-9ed5-333a57e7c91c/39dba1c5-4bfe-41fe-9617-21f54cccb2a7"
-      (reference "SW1") (unit 1) (value "SW_SPST") (footprint "Button_Switch_SMD:SW_SPST_CK_RS282G05A3")
+      (reference "SW1") (unit 1) (value "SW_SPST") (footprint "Button_Switch_SMD:SW_SPST_PTS645")
+    )
+    (path "/dfffd2cd-4619-4efc-9ed5-333a57e7c91c/2d34420d-7352-4345-9b04-732fe8484d7e"
+      (reference "SW2") (unit 1) (value "SW_SPST") (footprint "Button_Switch_SMD:SW_SPST_PTS645")
     )
     (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/b95d72ea-4637-48c5-ad60-b7aaa9661e13"
       (reference "TP1") (unit 1) (value "TP_3V3") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
