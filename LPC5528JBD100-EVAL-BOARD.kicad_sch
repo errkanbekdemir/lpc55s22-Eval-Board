@@ -205,6 +205,9 @@
     (path "/dfffd2cd-4619-4efc-9ed5-333a57e7c91c/37590092-e58c-4a06-9f06-883874e2730a"
       (reference "#PWR0144") (unit 1) (value "GND") (footprint "")
     )
+    (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/26400454-eeeb-414c-aa7f-36bfe5773f34"
+      (reference "#PWR0145") (unit 1) (value "VBUS") (footprint "")
+    )
     (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/9b978ca3-43f1-4097-ab17-17544685158e"
       (reference "C1") (unit 1) (value "100uF") (footprint "Capacitor_SMD:CP_Elec_8x10.5")
     )
@@ -254,13 +257,13 @@
       (reference "C16") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/67f78e96-ba2e-440c-a1df-b21511060706"
-      (reference "C17") (unit 1) (value "10uF") (footprint "Capacitor_Tantalum_SMD:CP_EIA-6032-28_Kemet-C")
+      (reference "C17") (unit 1) (value "100uF") (footprint "Capacitor_Tantalum_SMD:CP_EIA-6032-28_Kemet-C")
     )
     (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/da1a2413-818e-4666-bbf9-c6df7c374c67"
       (reference "C18") (unit 1) (value "10uF") (footprint "Capacitor_Tantalum_SMD:CP_EIA-6032-28_Kemet-C")
     )
     (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/2af77866-ea88-40fe-823f-d000a5118622"
-      (reference "C19") (unit 1) (value "10uF") (footprint "Capacitor_Tantalum_SMD:CP_EIA-6032-28_Kemet-C")
+      (reference "C19") (unit 1) (value "100uF") (footprint "Capacitor_Tantalum_SMD:CP_EIA-6032-28_Kemet-C")
     )
     (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/9935cf8f-4a10-4773-8ca6-51b9098fd066"
       (reference "C20") (unit 1) (value "120uF") (footprint "Capacitor_Tantalum_SMD:CP_EIA-6032-28_Kemet-C")
@@ -413,7 +416,7 @@
       (reference "SW1") (unit 1) (value "SW_SPST") (footprint "Button_Switch_SMD:SW_SPST_PTS645")
     )
     (path "/dfffd2cd-4619-4efc-9ed5-333a57e7c91c/2d34420d-7352-4345-9b04-732fe8484d7e"
-      (reference "SW2") (unit 1) (value "SW_SPST") (footprint "Button_Switch_SMD:SW_SPST_PTS645")
+      (reference "SW2") (unit 1) (value "ISP") (footprint "Button_Switch_SMD:SW_SPST_PTS645")
     )
     (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/b95d72ea-4637-48c5-ad60-b7aaa9661e13"
       (reference "TP1") (unit 1) (value "TP_3V3") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
