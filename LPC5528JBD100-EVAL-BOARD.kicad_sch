@@ -346,17 +346,23 @@
     (path "/43c0cb35-7964-4b4c-bb68-16608f9b71c5/5403c6a9-e814-42ad-96a4-32feba917967"
       (reference "J5") (unit 1) (value "MCU_V_SEL") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
+    (path "/dfffd2cd-4619-4efc-9ed5-333a57e7c91c/d249a9d3-fb9e-41b2-b442-a5c24ed84786"
+      (reference "J6") (unit 1) (value "USB_B_Micro") (footprint "Connector_USB:USB_Micro-B_Molex_47346-0001")
+    )
+    (path "/dfffd2cd-4619-4efc-9ed5-333a57e7c91c/7b97897e-a9fd-4910-93c2-4236133bb982"
+      (reference "J7") (unit 1) (value "USB_B_Micro") (footprint "Connector_USB:USB_Micro-B_Molex_47346-0001")
+    )
     (path "/dfffd2cd-4619-4efc-9ed5-333a57e7c91c/6bb606bf-41db-4cb9-a141-b64abd69daa7"
-      (reference "J6") (unit 1) (value "JLink-1") (footprint "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical")
+      (reference "J8") (unit 1) (value "JLink-1") (footprint "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical")
     )
     (path "/dfffd2cd-4619-4efc-9ed5-333a57e7c91c/06076a73-3c12-4fde-8c0e-8a9b0457908c"
-      (reference "J7") (unit 1) (value "JLink-2") (footprint "Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical")
+      (reference "J9") (unit 1) (value "JLink-2") (footprint "Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical")
     )
     (path "/dfffd2cd-4619-4efc-9ed5-333a57e7c91c/ad5acd6c-8b7d-400f-a5ce-0c6d633d4b9e"
-      (reference "J8") (unit 1) (value "Conn_02x20") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical")
+      (reference "J10") (unit 1) (value "Conn_02x20") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical")
     )
     (path "/dfffd2cd-4619-4efc-9ed5-333a57e7c91c/1895a7fb-266a-42fe-affa-08d006718b2c"
-      (reference "J9") (unit 1) (value "Conn_02x20") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical")
+      (reference "J11") (unit 1) (value "Conn_02x20") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical")
     )
     (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/d92719c0-7c6f-439a-85b3-d7695cbe7956"
       (reference "L1") (unit 1) (value "SRR1280A") (footprint "Inductor_SMD:L_Bourns_SRR1260")
