@@ -446,7 +446,7 @@
       (reference "SW3") (unit 1) (value "USER") (footprint "Button_Switch_SMD:SW_SPST_PTS645")
     )
     (path "/dfffd2cd-4619-4efc-9ed5-333a57e7c91c/39dba1c5-4bfe-41fe-9617-21f54cccb2a7"
-      (reference "SW4") (unit 1) (value "SW_SPST") (footprint "Button_Switch_SMD:SW_SPST_PTS645")
+      (reference "SW4") (unit 1) (value "MCU_RESET") (footprint "Button_Switch_SMD:SW_SPST_PTS645")
     )
     (path "/74b6f7df-3748-44c3-a5f2-484b58d43cc3/081a8665-82c8-4f21-bcc5-c4339f3fc936"
       (reference "TP1") (unit 1) (value "TP_GND") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
@@ -482,7 +482,7 @@
       (reference "U5") (unit 1) (value "LPC55S28JBD100") (footprint "erkan-hw-lib:HLQFP100")
     )
     (path "/43c0cb35-7964-4b4c-bb68-16608f9b71c5/c37579ac-a55a-4f7c-b460-12c3f581a24f"
-      (reference "U5") (unit 2) (value "LPC55S28JBD100") (footprint "HLQFP100")
+      (reference "U5") (unit 2) (value "LPC55S28JBD100") (footprint "erkan-hw-lib:HLQFP100")
     )
     (path "/43c0cb35-7964-4b4c-bb68-16608f9b71c5/0b29da42-8f8b-4a64-9e4d-31addbfcbd7b"
       (reference "U5") (unit 3) (value "LPC55S28JBD100") (footprint "erkan-hw-lib:HLQFP100")

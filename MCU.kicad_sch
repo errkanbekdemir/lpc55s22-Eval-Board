@@ -2953,7 +2953,7 @@
     (property "Value" "LPC55S28JBD100" (id 1) (at 209.55 29.21 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "HLQFP100" (id 2) (at 180.34 31.369 0)
+    (property "Footprint" "erkan-hw-lib:HLQFP100" (id 2) (at 180.34 31.369 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 226.06 37.465 0)
